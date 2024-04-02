@@ -3,7 +3,7 @@ import { Outlet } from "react-router-dom";
 import Home from "./pages/Home";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
-import Write from "./pages/Home";
+import Write from "./pages/Write";
 import Single from "./pages/Single";
 import Navbar from "./component/Navbar";
 import Footer from "./component/Footer";
